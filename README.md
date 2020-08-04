@@ -1,1 +1,7 @@
-# db.json
+{
+"students":[
+{"id": 1, "name": "Aruna", "age":50},
+{"id": 2, "name": "Sanjay", "age":40},
+{"id": 3, "name": "John", "age":15}
+]
+}
